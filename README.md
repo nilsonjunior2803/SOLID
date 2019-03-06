@@ -8,7 +8,7 @@
  These principles are designed to make software more understandable, easier to maintain and extendable. And it allows us to manage many common software design problems.
 
 
-## Definition of each SOLID principle:
+## Definition of each SOLID principles:
 
  S = Single Responsibility Principle - A class should have only one reason to be changed.
 
